@@ -15,3 +15,16 @@
 /potenzmittel/i
 /rezeptfrei/i
 /apotheke/i
+/\bnotfall-?set\b/i
+/\bspende\b/i
+/\bu\.s\.\b/i
+/\bdonation\b/i
+/\br[_-]?e[_-]?z[_-]?e[_-]?p[_-]?t[_-]?f[_-]?r[_-]?e[_-]?i\b/i
+/\bdating\b/i
+/!#[A-Za-z]+\b/i
+/\bpillen\b/i
+/\bairdrop\b/i
+/\bpenis\b/i
+/\berektion\b/i
+/\bsex\b/i
+/\bbefriedigung\b/i
