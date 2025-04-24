@@ -46,3 +46,4 @@
 /Ski.+Sonne.+genießen.+Last.+Minute.+Angebot.+sichern/i
 /Steigern.+Wissen.+[0-9]+.+Ausgaben.+warten/i
 /vornam.+American.+Express.+vielen.+neuen.+Vorteilen/i
+/trust[\s_-]*wallet/i
