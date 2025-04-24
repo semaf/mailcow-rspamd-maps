@@ -27,3 +27,4 @@
 /\svagina\s/i
 /\spenis\s/i
 /\smarketing\s/i
+/\btrust[\s_-]*wallet\b/i
